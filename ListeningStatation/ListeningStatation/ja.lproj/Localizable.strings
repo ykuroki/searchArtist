@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  ListeningStatation
+
+  Created by kuroki on 12/10/25.
+  Copyright (c) 2012年 黒木 裕貴. All rights reserved.
+*/
+
+/*clip list*/
+"CLIP_GUIDE_MESSAGE" = "また聞きたいと思った音楽をここにためておくことができます。";
+
+/* search list */
+"SEARCH_PLACEHOLDER" = "アーティスト名で検索";
+"SEARCH_BUTTON" = "キャンセル";
+
