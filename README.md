@@ -1,0 +1,6 @@
+・itune APIを使用したartist検索ができるmoduleです
+・上部のsearch barに文字を入力すると検索にヒットしたartistが表示されます
+・キーボードで一文字入力することに検索されるため、suggestとしても利用できます
+・検索したartistをタップするとそのアーティストのidまたはamg artistidが返されます
+
+・通信としてAFNetworkingのライブラリを使用しています
